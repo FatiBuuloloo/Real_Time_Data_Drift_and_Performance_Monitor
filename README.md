@@ -9,7 +9,7 @@ This system catches that degradation before it becomes a problem, by:
 - Computing KL Divergence between the live and baseline distributions for all features
 - Surfacing drift signals through a visual, color-coded Streamlit dashboard
 
-Dataset: [SALICON](https://www.salicon.net/)
+Dataset: [Kaggle]([https://www.salicon.net/](https://www.kaggle.com/datasets/ruchikakumbhar/calories-burnt-prediction))
 
 Live Demo: [Click Here](https://viewww-mlops-calorie-prediction-dashboard.hf.space)
 
